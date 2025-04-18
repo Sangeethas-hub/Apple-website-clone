@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Apple-website-clone/static/css/main.4fc4d02c.css",
+    "main.js": "/Apple-website-clone/static/js/main.ba9dd6eb.js",
+    "static/media/1250x703--VJW8NJ.jpg": "/Apple-website-clone/static/media/1250x703--VJW8NJ.ef28f472aa8c8dd68ba7.jpg",
+    "static/media/1250x703--eV0BLk.jpg": "/Apple-website-clone/static/media/1250x703--eV0BLk.f0a6228011cfb868611a.jpg",
+    "static/media/1250x703--RKw1t3.jpg": "/Apple-website-clone/static/media/1250x703--RKw1t3.796b8dc0ebd4387922ae.jpg",
+    "static/media/1250x703--CeZsUw.jpg": "/Apple-website-clone/static/media/1250x703--CeZsUw.a717aeb5ea226442cc32.jpg",
+    "static/media/1250x703--vwxvb1.jpg": "/Apple-website-clone/static/media/1250x703--vwxvb1.e649bae50903d1acec32.jpg",
+    "static/media/1250x703.jpg": "/Apple-website-clone/static/media/1250x703.1314e70ac85f3b2ecac9.jpg",
+    "static/media/1250x703--QhPWO2.jpg": "/Apple-website-clone/static/media/1250x703--QhPWO2.dc1ca528490b17dc24a4.jpg",
+    "static/media/1250x703--xQzMbV.jpg": "/Apple-website-clone/static/media/1250x703--xQzMbV.c3bebc7557c08af4dd5e.jpg",
+    "static/media/1250x703--jeMT13.jpg": "/Apple-website-clone/static/media/1250x703--jeMT13.fbc8cf15519a9ea6fc24.jpg",
+    "static/media/1250x703--NmP9Wu.jpg": "/Apple-website-clone/static/media/1250x703--NmP9Wu.55db533e3adfba227908.jpg",
+    "index.html": "/Apple-website-clone/index.html",
+    "main.4fc4d02c.css.map": "/Apple-website-clone/static/css/main.4fc4d02c.css.map",
+    "main.ba9dd6eb.js.map": "/Apple-website-clone/static/js/main.ba9dd6eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc4d02c.css",
+    "static/js/main.ba9dd6eb.js"
+  ]
+}
