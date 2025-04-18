@@ -4,7 +4,7 @@
 
 A clone of Apple's homepage of their [official website](https://www.apple.com/in/) (location: India) by implementing the big block design.
 
-Visit the clone [here](https://apple-clone-suman-sourabh.netlify.app/) (hosted on Netlify)
+Visit the clone [here]( https://sangeethas-hub.github.io/Apple-website-clone/) 
 
 ## Tech used
 
