@@ -1,6 +1,6 @@
 <img src="./src/carousel-images/Apple-clone-hero-section.png">
 
-# [Apple Website Clone](https://apple-clone-suman-sourabh.netlify.app/)
+# [Apple Website Clone]( https://sangeethas-hub.github.io/Apple-website-clone/)
 
 A clone of Apple's homepage of their [official website](https://www.apple.com/in/) (location: India) by implementing the big block design.
 
