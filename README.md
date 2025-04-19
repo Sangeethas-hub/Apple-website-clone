@@ -40,4 +40,4 @@ See [daisyUI carousel documentation](https://daisyui.com/components/carousel/) f
 - [daisyUI installation](https://daisyui.com/docs/install/)
 - [Fontawesome icons with React](https://fontawesome.com/docs/web/use-with/react/)
 
-**Built by [SANGEETHA GEDELA](https://sumansourabh.netlify.app/) | 2022**
+**Built by [SANGEETHA GEDELA](https://sangeethas-hub.github.io/Apple-website-clone/) | 2025**
